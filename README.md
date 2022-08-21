@@ -1,6 +1,6 @@
 # Network analysis of Wikipedia Norms
 
-Analysis of a network composed by Wikipedia Norm (see **Wikipedia norms - paper** for more information). There are two parts:
+Analysis of a network composed by Wikipedia Norm (see **Wikipedia norms - paper.pdf** for more information). There are two parts:
 
 * Metrics and model: main statistics and create new graphs synthetically based on different network models. Mention there is also a part of detection and visualization of possible communities using Gephi, a work which continues in next part.
 
