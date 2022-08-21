@@ -1,4 +1,4 @@
-# Network analysis of Wikipedia Norms
+# Network analysis of Wikipedia norms
 
 Analysis of a network composed by Wikipedia Norm (see **Wikipedia norms - paper.pdf** for more information). There are two parts:
 
